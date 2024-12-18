@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CSCI410 Assessment</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="g">gender</string>
+    <string name="m">male</string>
+    <string name="f">female</string>
+    <string name="o">other</string>
+    <string name="done">preferred contact method</string>
+    <string name="n1">enter your name</string>
+    <string name="e1">enter your email</string>
+    <string name="sub">subscribe to newsletter</string>
+    <string name="submit">Submit</string>
+    <string name="clear">clear</string>
+    <string-array name="email">
+        <item>phone</item>
+        <item>email</item>
+    </string-array>
+
+</resources>
